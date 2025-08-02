@@ -3514,4 +3514,4 @@ This setup serves not only as a simulation of autonomous trading but also as a p
 
 The content is based on Ed Donner's comprehensive The Complete Agentic AI Engineering (2025) course and reflects his expertise in making complex agentic ai concepts accessible through practical, hands-on projects.
 
-Visit [Daniel's GitHub profile](https://github.com/mrdbourke) for more resources on machine learning and deep learning.
+Visit [Ed Donner's profile](https://edwarddonner.com/) for more resources on AI.
