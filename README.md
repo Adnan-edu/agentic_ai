@@ -1098,8 +1098,6 @@ Below are three key UI screens for the Trading Simulation Platform, each represe
 
 </div>
 
-> **Tip:** Hover over any image to zoom in and examine the UI details more closely.
-
 ---
 
 ### **1. Agent Definitions**
