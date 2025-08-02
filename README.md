@@ -37,7 +37,9 @@
   - [Agentic AI - MCP Memory](#agentic-ai---mcp-memory-)
   - [Autonomous Traders: An Agentic AI Capstone Project](#autonomous-traders-an-agentic-ai-capstone-project)
   - [Final Capstone: Autonomous Traders](#--agentic-ai---mcp-capstone-autonomous-traders)
+- [Acknowledgments](#acknowledgments)
 
+  
 ---
 
 <p align="center">
@@ -3506,3 +3508,10 @@ The key takeaway from this capstone project is to **gain a tangible, visual unde
 * Provide a transparent window into **large model (LM) activity** and decision-making workflows
 
 This setup serves not only as a simulation of autonomous trading but also as a powerful framework for **inspecting and debugging complex agent interactions** operating behind the scenes.
+
+<a id="acknowledgments"></a>
+## ![Credits Badge](https://img.shields.io/badge/Credits-EdDonner-blue?style=flat-square)
+
+The content is based on Ed Donner's comprehensive The Complete Agentic AI Engineering (2025) course and reflects his expertise in making complex agentic ai concepts accessible through practical, hands-on projects.
+
+Visit [Daniel's GitHub profile](https://github.com/mrdbourke) for more resources on machine learning and deep learning.
