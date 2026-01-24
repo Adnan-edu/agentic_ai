@@ -39,7 +39,12 @@
   - [Final Capstone: Autonomous Traders](#--agentic-ai---mcp-capstone-autonomous-traders)
 - [Acknowledgments](#acknowledgments)
 
-  
+
+---
+
+🚀✨ [`multi_agent_deep_rag`](https://github.com/Adnan-edu/multi_agent_deep_rag) is a hands-on Multi-Modal Deep Agent project focused on **Langchain v1 AI Agents, Multi-Modal Deep Agents, Multi Agent Deep Advanced RAG, Google Gemini 3, OpenAI, Qdrant, Docker, Docling**.  
+👉 For more details and to explore the code, head over to the repository!
+
 ---
 
 <p align="center">
