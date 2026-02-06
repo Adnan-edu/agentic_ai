@@ -47,6 +47,11 @@
 
 ---
 
+🚀✨ [`AI Engineer MLOps Track: Deploy Gen AI & Agentic AI at Scale`](https://github.com/Adnan-edu/ai-eng-ops) is a production-grade AI Engineering & MLOps workspace focused on Multi-Agent Systems, AWS Bedrock, OpenAI Agents SDK, Terraform, Docker, Model Context Protocol (MCP), Serverless Architecture, and Advanced RAG for real-world applications.  
+👉 For more details and to explore the code, head over to the repository!
+
+---
+
 <p align="center">
   <img src="chatbot.jpg" alt="Chatbot Title Image" width="300"/>
 </p>
